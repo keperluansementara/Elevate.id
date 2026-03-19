@@ -25,7 +25,7 @@ import {
 // ==========================================
 // 1. DATA STATIS (Di luar komponen)
 // ==========================================
-const WHATSAPP_NUMBER = "6281234567890"; // Ganti dengan nomor WA asli
+const WHATSAPP_NUMBER = "6285694318667"; // Ganti dengan nomor WA asli
 const WA_LINK_GENERAL = `https://wa.me/${WHATSAPP_NUMBER}?text=Halo%20Elevate%20Studio,%20saya%20ingin%20konsultasi%20mengenai%20pembuatan%20landing%20page.`;
 const WA_LINK_GROWTH = `https://wa.me/${WHATSAPP_NUMBER}?text=Halo%20Elevate%20Studio,%20saya%20tertarik%20dengan%20paket%20Growth%20Partner.`;
 
